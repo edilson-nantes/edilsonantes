@@ -8,5 +8,7 @@
 
 ##
 <div>
+  
   ![Snake animation](https://github.com/edilsonantes/edilsonantes/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
